@@ -1,0 +1,181 @@
+{
+  "targets": [
+    {
+      "coveredLines": 0,
+      "lineCoverage": 0,
+      "files": [
+        {
+          "path": "\/Users\/emiliano.alvarez\/Desktop\/TEST ANALYZER\/Testing123\/etc\/SceneDelegate.swift",
+          "lineCoverage": 0,
+          "coveredLines": 0,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 45,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneDidEnterBackground(__C.UIScene) -> ()",
+              "executableLines": 5
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 16,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -> ()",
+              "executableLines": 6
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 23,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneDidDisconnect(__C.UIScene) -> ()",
+              "executableLines": 6
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 35,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneWillResignActive(__C.UIScene) -> ()",
+              "executableLines": 4
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 40,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneWillEnterForeground(__C.UIScene) -> ()",
+              "executableLines": 4
+            }
+          ],
+          "name": "SceneDelegate.swift",
+          "executableLines": 25
+        }
+      ],
+      "name": "Unit Tests",
+      "executableLines": 25,
+      "buildProductPath": "\/Users\/emiliano.alvarez\/Library\/Developer\/Xcode\/DerivedData\/Testing123-alxixsuewddxaseqvsvmnnicsgmb\/Build\/Products\/Debug-iphonesimulator\/Testing123.app\/Testing123"
+    },
+{
+      "coveredLines": 0,
+      "lineCoverage": 0,
+      "files": [
+        {
+          "path": "\/Users\/emiliano.alvarez\/Desktop\/TEST ANALYZER\/Testing123\/etc\/AppDelegate.swift",
+          "lineCoverage": 0,
+          "coveredLines": 0,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 23,
+              "executionCount": 0,
+              "name": "Testing123.AppDelegate.application(_: __C.UIApplication, configurationForConnecting: __C.UISceneSession, options: __C.UISceneConnectionOptions) -> __C.UISceneConfiguration",
+              "executableLines": 5
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 16,
+              "executionCount": 0,
+              "name": "Testing123.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional<Swift.Dictionary<__C.UIApplicationLaunchOptionsKey, Any>>) -> Swift.Bool",
+              "executableLines": 4
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 29,
+              "executionCount": 0,
+              "name": "Testing123.AppDelegate.application(_: __C.UIApplication, didDiscardSceneSessions: Swift.Set<__C.UISceneSession>) -> ()",
+              "executableLines": 5
+            }
+          ],
+          "name": "AppDelegate.swift",
+          "executableLines": 14
+        },
+        {
+          "path": "\/Users\/emiliano.alvarez\/Desktop\/TEST ANALYZER\/Testing123\/etc\/SceneDelegate.swift",
+          "lineCoverage": 0,
+          "coveredLines": 0,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 23,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneDidDisconnect(__C.UIScene) -> ()",
+              "executableLines": 6
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 35,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneWillResignActive(__C.UIScene) -> ()",
+              "executableLines": 4
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 40,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneWillEnterForeground(__C.UIScene) -> ()",
+              "executableLines": 4
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 30,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneDidBecomeActive(__C.UIScene) -> ()",
+              "executableLines": 4
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 16,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -> ()",
+              "executableLines": 6
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 45,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneDidEnterBackground(__C.UIScene) -> ()",
+              "executableLines": 5
+            }
+          ],
+          "name": "SceneDelegate.swift",
+          "executableLines": 29
+        },
+        {
+          "path": "\/Users\/emiliano.alvarez\/Desktop\/TEST ANALYZER\/Testing123\/src\/Views\/ViewController.swift",
+          "lineCoverage": 0,
+          "coveredLines": 0,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 13,
+              "executionCount": 0,
+              "name": "Testing123Tests.ViewController.viewDidLoad() -> ()",
+              "executableLines": 4
+            }
+          ],
+          "name": "ViewController.swift",
+          "executableLines": 4
+        }
+      ],
+      "name": "Integration Tests",
+      "executableLines": 47,
+      "buildProductPath": "\/Users\/emiliano.alvarez\/Library\/Developer\/Xcode\/DerivedData\/Testing123-alxixsuewddxaseqvsvmnnicsgmb\/Build\/Products\/Debug-iphonesimulator\/Testing123.app\/Testing123"
+    }
+  ],
+  "lineCoverage": 0,
+  "coveredLines": 0,
+  "executableLines": 72
+}

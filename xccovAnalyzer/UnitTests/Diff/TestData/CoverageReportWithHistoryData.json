@@ -1,0 +1,30 @@
+{
+  "targets": [
+    {
+      "currentCoverage": 12.903225806451612,
+      "previousCoverage": 12.903225806451612,
+      "coverageDifference": 0,
+      "name": "Testing123.app"
+    },
+    {
+      "currentCoverage": 57.692307692307686,
+      "previousCoverage": 76.923076923076906,
+      "coverageDifference": -19.230769230769219,
+      "name": "Testing123Tests.xctest",
+      "files": [
+        {
+          "currentCoverage": 66.666666666666657,
+          "previousCoverage": 58.333333333333329,
+          "coverageDifference": 8.3333333333333286,
+          "name": "HomeViewModel.swift"
+        },
+        {
+          "currentCoverage": 0,
+          "previousCoverage": 100,
+          "coverageDifference": -100,
+          "name": "NewClass.swift"
+        }
+      ]
+    }
+  ]
+}

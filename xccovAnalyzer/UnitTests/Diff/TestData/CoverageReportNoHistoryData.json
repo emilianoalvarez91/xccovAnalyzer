@@ -1,0 +1,16 @@
+{
+  "targets": [
+    {
+      "currentCoverage": 57.692307692307686,
+      "previousCoverage": 0,
+      "coverageDifference": 57.692307692307686,
+      "name": "Testing123Tests.xctest"
+    },
+    {
+      "currentCoverage": 12.903225806451612,
+      "previousCoverage": 0,
+      "coverageDifference": 12.903225806451612,
+      "name": "Testing123.app"
+    }
+  ]
+}

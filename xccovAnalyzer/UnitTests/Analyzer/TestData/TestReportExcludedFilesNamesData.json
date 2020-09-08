@@ -1,0 +1,66 @@
+{
+  "targets": [
+    {
+      "coveredLines": 8,
+      "lineCoverage": 0.53333333333333333,
+      "files": [
+        {
+          "path": "\/Users\/emiliano.alvarez\/Desktop\/TEST ANALYZER\/Testing123\/src\/NewClass.swift",
+          "lineCoverage": 0,
+          "coveredLines": 0,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 12,
+              "executionCount": 0,
+              "name": "Testing123Tests.NewClass.testMe() -> ()",
+              "executableLines": 3
+            }
+          ],
+          "name": "NewClass.swift",
+          "executableLines": 3
+        },
+        {
+          "path": "\/Users\/emiliano.alvarez\/Desktop\/TEST ANALYZER\/Testing123\/src\/ViewModels\/HomeViewModel.swift",
+          "lineCoverage": 0.66666666666666663,
+          "coveredLines": 8,
+          "functions": [
+            {
+              "coveredLines": 3,
+              "lineCoverage": 1,
+              "lineNumber": 13,
+              "executionCount": 1,
+              "name": "Testing123Tests.HomeViewModel.testme() -> Swift.String",
+              "executableLines": 3
+            },
+            {
+              "coveredLines": 5,
+              "lineCoverage": 0.83333333333333337,
+              "lineNumber": 21,
+              "executionCount": 1,
+              "name": "Testing123Tests.HomeViewModel.partiallyTested() -> Swift.String",
+              "executableLines": 6
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 17,
+              "executionCount": 0,
+              "name": "Testing123Tests.HomeViewModel.notTestedMethod() -> ()",
+              "executableLines": 3
+            }
+          ],
+          "name": "HomeViewModel.swift",
+          "executableLines": 12
+        }
+      ],
+      "name": "Testing123.app",
+      "executableLines": 15,
+      "buildProductPath": "\/Users\/emiliano.alvarez\/Library\/Developer\/Xcode\/DerivedData\/Testing123-alxixsuewddxaseqvsvmnnicsgmb\/Build\/Products\/Debug-iphonesimulator\/Testing123.app\/Testing123"
+    }
+  ],
+  "lineCoverage": 0.53333333333333333,
+  "coveredLines": 8,
+  "executableLines": 15
+}

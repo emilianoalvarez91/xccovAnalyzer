@@ -1,0 +1,282 @@
+{
+  "targets": [
+    {
+      "coveredLines": 15,
+      "lineCoverage": 0.5769230769230769,
+      "files": [
+        {
+          "path": "/Users/emiliano.alvarez/Desktop/TEST ANALYZER/Testing123/src/NewClass.swift",
+          "lineCoverage": 0,
+          "coveredLines": 0,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 12,
+              "executionCount": 0,
+              "name": "Testing123Tests.NewClass.testMe() -> ()",
+              "executableLines": 3
+            }
+          ],
+          "name": "NewClass.swift",
+          "executableLines": 3
+        },
+        {
+          "path": "/Users/emiliano.alvarez/Desktop/TEST ANALYZER/Testing123/src/ViewModels/HomeViewModel.swift",
+          "lineCoverage": 0.6666666666666666,
+          "coveredLines": 8,
+          "functions": [
+            {
+              "coveredLines": 3,
+              "lineCoverage": 1,
+              "lineNumber": 13,
+              "executionCount": 1,
+              "name": "Testing123Tests.HomeViewModel.testme() -> Swift.String",
+              "executableLines": 3
+            },
+            {
+              "coveredLines": 5,
+              "lineCoverage": 0.8333333333333334,
+              "lineNumber": 21,
+              "executionCount": 1,
+              "name": "Testing123Tests.HomeViewModel.partiallyTested() -> Swift.String",
+              "executableLines": 6
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 17,
+              "executionCount": 0,
+              "name": "Testing123Tests.HomeViewModel.notTestedMethod() -> ()",
+              "executableLines": 3
+            }
+          ],
+          "name": "HomeViewModel.swift",
+          "executableLines": 12
+        },
+        {
+          "path": "/Users/emiliano.alvarez/Desktop/TEST ANALYZER/Testing123/Testing123Tests/Testing123Tests.swift",
+          "lineCoverage": 1,
+          "coveredLines": 7,
+          "functions": [
+            {
+              "coveredLines": 1,
+              "lineCoverage": 1,
+              "lineNumber": 13,
+              "executionCount": 2,
+              "name": "variable initialization expression of Testing123Tests.Testing123Tests.sut : Testing123Tests.HomeViewModel",
+              "executableLines": 1
+            },
+            {
+              "coveredLines": 3,
+              "lineCoverage": 1,
+              "lineNumber": 15,
+              "executionCount": 1,
+              "name": "Testing123Tests.Testing123Tests.testHomeViewModel() -> ()",
+              "executableLines": 3
+            },
+            {
+              "coveredLines": 3,
+              "lineCoverage": 1,
+              "lineNumber": 20,
+              "executionCount": 1,
+              "name": "Testing123Tests.Testing123Tests.testHomeViewModel2() -> ()",
+              "executableLines": 3
+            }
+          ],
+          "name": "Testing123Tests.swift",
+          "executableLines": 7
+        },
+        {
+          "path": "/Users/emiliano.alvarez/Desktop/TEST ANALYZER/Testing123/src/Views/ViewController.swift",
+          "lineCoverage": 0,
+          "coveredLines": 0,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 13,
+              "executionCount": 0,
+              "name": "Testing123Tests.ViewController.viewDidLoad() -> ()",
+              "executableLines": 4
+            }
+          ],
+          "name": "ViewController.swift",
+          "executableLines": 4
+        }
+      ],
+      "name": "Testing123Tests.xctest",
+      "executableLines": 26,
+      "buildProductPath": "/Users/emiliano.alvarez/Library/Developer/Xcode/DerivedData/Testing123-alxixsuewddxaseqvsvmnnicsgmb/Build/Products/Debug-iphonesimulator/Testing123Tests.xctest/Testing123Tests"
+    },
+    {
+      "coveredLines": 8,
+      "lineCoverage": 0.12903225806451613,
+      "files": [
+        {
+          "path": "/Users/emiliano.alvarez/Desktop/TEST ANALYZER/Testing123/src/Views/ViewController.swift",
+          "lineCoverage": 0,
+          "coveredLines": 0,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 13,
+              "executionCount": 0,
+              "name": "Testing123Tests.ViewController.viewDidLoad() -> ()",
+              "executableLines": 4
+            }
+          ],
+          "name": "ViewController.swift",
+          "executableLines": 4
+        },
+        {
+          "path": "/Users/emiliano.alvarez/Desktop/TEST ANALYZER/Testing123/src/ViewModels/HomeViewModel.swift",
+          "lineCoverage": 0.6666666666666666,
+          "coveredLines": 8,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 17,
+              "executionCount": 0,
+              "name": "Testing123Tests.HomeViewModel.notTestedMethod() -> ()",
+              "executableLines": 3
+            },
+            {
+              "coveredLines": 3,
+              "lineCoverage": 1,
+              "lineNumber": 13,
+              "executionCount": 1,
+              "name": "Testing123Tests.HomeViewModel.testme() -> Swift.String",
+              "executableLines": 3
+            },
+            {
+              "coveredLines": 5,
+              "lineCoverage": 0.8333333333333334,
+              "lineNumber": 21,
+              "executionCount": 1,
+              "name": "Testing123Tests.HomeViewModel.partiallyTested() -> Swift.String",
+              "executableLines": 6
+            }
+          ],
+          "name": "HomeViewModel.swift",
+          "executableLines": 12
+        },
+        {
+          "path": "/Users/emiliano.alvarez/Desktop/TEST ANALYZER/Testing123/src/NewClass.swift",
+          "lineCoverage": 0,
+          "coveredLines": 0,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 12,
+              "executionCount": 0,
+              "name": "Testing123Tests.NewClass.testMe() -> ()",
+              "executableLines": 3
+            }
+          ],
+          "name": "NewClass.swift",
+          "executableLines": 3
+        },
+        {
+          "path": "/Users/emiliano.alvarez/Desktop/TEST ANALYZER/Testing123/etc/AppDelegate.swift",
+          "lineCoverage": 0,
+          "coveredLines": 0,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 23,
+              "executionCount": 0,
+              "name": "Testing123.AppDelegate.application(_: __C.UIApplication, configurationForConnecting: __C.UISceneSession, options: __C.UISceneConnectionOptions) -> __C.UISceneConfiguration",
+              "executableLines": 5
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 16,
+              "executionCount": 0,
+              "name": "Testing123.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional<Swift.Dictionary<__C.UIApplicationLaunchOptionsKey, Any>>) -> Swift.Bool",
+              "executableLines": 4
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 29,
+              "executionCount": 0,
+              "name": "Testing123.AppDelegate.application(_: __C.UIApplication, didDiscardSceneSessions: Swift.Set<__C.UISceneSession>) -> ()",
+              "executableLines": 5
+            }
+          ],
+          "name": "AppDelegate.swift",
+          "executableLines": 14
+        },
+        {
+          "path": "/Users/emiliano.alvarez/Desktop/TEST ANALYZER/Testing123/etc/SceneDelegate.swift",
+          "lineCoverage": 0,
+          "coveredLines": 0,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 40,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneWillEnterForeground(__C.UIScene) -> ()",
+              "executableLines": 4
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 30,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneDidBecomeActive(__C.UIScene) -> ()",
+              "executableLines": 4
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 45,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneDidEnterBackground(__C.UIScene) -> ()",
+              "executableLines": 5
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 16,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -> ()",
+              "executableLines": 6
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 23,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneDidDisconnect(__C.UIScene) -> ()",
+              "executableLines": 6
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 35,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneWillResignActive(__C.UIScene) -> ()",
+              "executableLines": 4
+            }
+          ],
+          "name": "SceneDelegate.swift",
+          "executableLines": 29
+        }
+      ],
+      "name": "Testing123.app",
+      "executableLines": 62,
+      "buildProductPath": "/Users/emiliano.alvarez/Library/Developer/Xcode/DerivedData/Testing123-alxixsuewddxaseqvsvmnnicsgmb/Build/Products/Debug-iphonesimulator/Testing123.app/Testing123"
+    }
+  ],
+  "lineCoverage": 0.26136363636363635,
+  "coveredLines": 23,
+  "executableLines": 88
+}

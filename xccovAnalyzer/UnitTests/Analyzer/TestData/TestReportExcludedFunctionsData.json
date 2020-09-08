@@ -1,0 +1,82 @@
+{
+  "targets": [
+    {
+      "coveredLines": 3,
+      "lineCoverage": 0.10714285714285714,
+      "files": [
+        {
+          "path": "\/Users\/emiliano.alvarez\/Desktop\/TEST ANALYZER\/Testing123\/etc\/SceneDelegate.swift",
+          "lineCoverage": 0,
+          "coveredLines": 0,
+          "functions": [
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 16,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -> ()",
+              "executableLines": 6
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 45,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneDidEnterBackground(__C.UIScene) -> ()",
+              "executableLines": 5
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 23,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneDidDisconnect(__C.UIScene) -> ()",
+              "executableLines": 6
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 35,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneWillResignActive(__C.UIScene) -> ()",
+              "executableLines": 4
+            },
+            {
+              "coveredLines": 0,
+              "lineCoverage": 0,
+              "lineNumber": 40,
+              "executionCount": 0,
+              "name": "Testing123.SceneDelegate.sceneWillEnterForeground(__C.UIScene) -> ()",
+              "executableLines": 4
+            }
+          ],
+          "name": "SceneDelegate.swift",
+          "executableLines": 25
+        },
+        {
+          "path": "\/Users\/emiliano.alvarez\/Desktop\/TEST ANALYZER\/Testing123\/src\/ViewModels\/HomeViewModel.swift",
+          "lineCoverage": 1,
+          "coveredLines": 3,
+          "functions": [
+            {
+              "coveredLines": 3,
+              "lineCoverage": 1,
+              "lineNumber": 13,
+              "executionCount": 1,
+              "name": "Testing123Tests.HomeViewModel.testme() -> Swift.String",
+              "executableLines": 3
+            }
+          ],
+          "name": "HomeViewModel.swift",
+          "executableLines": 3
+        }
+      ],
+      "name": "Testing123.app",
+      "executableLines": 28,
+      "buildProductPath": "\/Users\/emiliano.alvarez\/Library\/Developer\/Xcode\/DerivedData\/Testing123-alxixsuewddxaseqvsvmnnicsgmb\/Build\/Products\/Debug-iphonesimulator\/Testing123.app\/Testing123"
+    }
+  ],
+  "lineCoverage": 0.10714285714285714,
+  "coveredLines": 3,
+  "executableLines": 28
+}
